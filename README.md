@@ -1,5 +1,6 @@
-# CanvasLand OriginTrail MetaChatDKG (CVL-OT-MetaChatDKG) 
-CVL-OT-MetaChatDKG WebXR SDK by CanvasLand
+# CanvasLand OriginTrail MetaChatDKG
+> CanvasLand OriginTrail MetaChatDKG (CVL-OT-MetaChatDKG) WebXR SDK by CanvasLand
+CVL-OT-MetaChatDKG is designed to be extensible and open-source, providing developers and DKG builders with a framework to integrate their own knowledge assets. 
 ![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/697ca762-8f9d-4d39-acd4-6c5abc6c84e5)
 # Key Objectives
 ![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/da313674-9a44-44f0-8ada-4350cc9af815)
