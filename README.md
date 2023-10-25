@@ -12,7 +12,8 @@ CVL-OT-MetaChatDKG integrates advanced rendering capabilities, allowing users to
 ![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/cb3eddc0-4eb0-4c91-9945-80e9c6c0043d)
 > CVL-OT-MetaChatDKG will serve as the user interface for accessing and interacting with the knowledge assets sourced from the DKG backend.
 
-It will provide an **immersive and visually engaging environment** for users. The DKG serves as the backbone acting as a decentralized repository of knowledge assets.
+Provide an **immersive and visually engaging environment** for users while the DKG serves as the backbone acting as a decentralized repository of knowledge assets. 
+
 Users can tap into the vast pool of trusted information to make informed decisions and discover new insights.
 The visual extension will include features such as ***rendering graphs, a voice chat interface, and other interactive elements*** to enhance the user experience.
 
@@ -31,8 +32,8 @@ Create **open-source codes** for the ChatDKG framework that allows DKG builders 
 
 **Define** the interfaces and protocols for communication between these components.
 
-**Develop** the UIUX for CVL-OT-MetaChatDKG, incorporating the necessary elements to interact with ChatDKG. 
-Implement the visual extension features, such as rendering graphs and interactive elements, to support knowledge graph integration.
+**Develop** the UIUX for CVL-OT-MetaChatDKG, incorporating the necessary elements to interact with ChatDKG.
+- Implement the visual extension features, such as rendering graphs and interactive elements, to support knowledge graph integration.
 
 ![image](https://github.com/Zen-CVL/CanvasLand-OriginTrail-ChatDKG/assets/148840443/43bb6ed0-d3a7-418e-b31a-94c8a2743e6e)
 # Open Source Codes
