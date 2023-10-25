@@ -5,10 +5,14 @@ CVL-OT-MetaChatDKG is designed to be extensible and open-source, providing devel
 # Key Objectives
 ![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/da313674-9a44-44f0-8ada-4350cc9af815)
 # Design Concept and Purpose
-CVL-OT-MetaChatDKG is an innovative and **Immersive AI Search Engine** that combines the power of the CanvasLand Metaverse Interface with DKG technology. It enables users to seamlessly interact and collaborate in a virtual environment while leveraging the collective knowledge stored in the DKG.
+CVL-OT-MetaChatDKG is an innovative and **Immersive AI Search Engine** that combines the power of the CanvasLand Metaverse Interface with DKG technology.
+It enables users to seamlessly interact and collaborate in a virtual environment while leveraging the collective knowledge stored in the DKG.
+CVL-OT-MetaChatDKG integrates advanced rendering capabilities, allowing users to visualize complex data and graphs in an intuitive and interactive manner.
 ![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/cb3eddc0-4eb0-4c91-9945-80e9c6c0043d)
 > CVL-OT-MetaChatDKG will serve as the user interface for accessing and interacting with the knowledge assets sourced from the DKG backend.
-It will provide an **immersive and visually engaging environment** for users. The visual extension will include features such as ***rendering graphs, a voice chat interface, and other interactive elements*** to enhance the user experience.
+It will provide an **immersive and visually engaging environment** for users. The DKG serves as the backbone acting as a decentralized repository of knowledge assets.
+Users can tap into the vast pool of trusted information to make informed decisions and discover new insights.
+The visual extension will include features such as ***rendering graphs, a voice chat interface, and other interactive elements*** to enhance the user experience.
 >  Leverage DKG Backend to source the knowledge assets and handle user queries.
 - Integration of knowledge assets to the Metaverse
 - Assets Sourcing and Query Forwarding
