@@ -26,6 +26,7 @@ Create **open-source codes** for the ChatDKG framework that allows DKG builders 
 ![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/ff237dbb-d4ba-4bdf-b886-f96d97427797)
 # Solution Diagram & Deliverables
 ![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/0198655c-d1a7-4f2a-9850-1f7270134c2b)
+
 **Design** the overall system architecture, considering the integration points and data flow between the CanvasLand Metaverse, DKG backend, and ChatDKG AI search engine.
 
 **Define** the interfaces and protocols for communication between these components.
