@@ -16,13 +16,14 @@ CVL-OT-MetaChatDKG is an **Innovative and Immersive AI Search Engine** that comb
 It enables users to seamlessly interact and collaborate in a virtual environment while leveraging the collective knowledge stored in the DKG.
 CVL-OT-MetaChatDKG integrates advanced rendering capabilities, allowing users to visualize complex data and graphs in an intuitive and interactive manner.
 
-![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/cb3eddc0-4eb0-4c91-9945-80e9c6c0043d)
+![image](https://github.com/Zen-CVL/CanvasLand-OriginTrail-MetaChatDKG/assets/148840443/51609d40-c7bd-49e3-8075-61350b1b6569)
+
 > CVL-OT-MetaChatDKG will serve as the user interface for accessing and interacting with the knowledge assets sourced from the DKG backend.
 
 Provide an **immersive and visually engaging environment** for users while the DKG serves as the backbone acting as a decentralized repository of knowledge assets. 
 
 Users can tap into the vast pool of trusted information to make informed decisions and discover new insights.
-The visual extension will include features such as ***rendering graphs, a voice chat interface, and other interactive elements*** to enhance the user experience.
+The visual extension will include features such as ***rendering graphs, a voice input interface, and other interactive elements*** to enhance the user experience.
 
 > Leverage DKG Backend to source the knowledge assets and handle user queries.
 - Integration of knowledge assets to the Metaverse
@@ -43,4 +44,4 @@ Create **open-source codes** for the ChatDKG framework that allows DKG builders 
 - Implement the visual extension features, such as rendering graphs and interactive elements, to support knowledge graph integration.
 
 ![image](https://github.com/Zen-CVL/CanvasLand-OriginTrail-ChatDKG/assets/148840443/43bb6ed0-d3a7-418e-b31a-94c8a2743e6e)
-# Open Source Codes
+# CVL-UnitySDK Open Source Codes 
