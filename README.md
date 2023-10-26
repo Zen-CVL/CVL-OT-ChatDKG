@@ -1,5 +1,11 @@
 # CanvasLand OriginTrail MetaChatDKG
-CanvasLand OriginTrail MetaChatDKG (CVL-OT-MetaChatDKG) WebXR SDK by CanvasLand. CVL-OT-MetaChatDKG is designed to be extensible and open-source, providing developers and DKG builders with a framework to integrate their own knowledge assets.
+> CanvasLand OriginTrail MetaChatDKG (CVL-OT-MetaChatDKG) UnitySDK by CanvasLand.
+
+CVL-OT-MetaChatDKG is designed to be extensible, providing developers and DKG builders with a framework to integrate their own knowledge assets into the metaverse.
+The open-source CVL-UnitySDK includes the following:
+- Call DKG API
+- Retrieve ChatDKG knowledge assets information
+- Simple 3D renderings of DKG
 
 ![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/697ca762-8f9d-4d39-acd4-6c5abc6c84e5)
 # Key Objectives
@@ -22,7 +28,7 @@ The visual extension will include features such as ***rendering graphs, a voice 
 - Assets Sourcing and Query Forwarding
 
 Integration components will be developed that serve as the bridge between the Canvasland Metaverse and the DKG backend. 
-Create **open-source codes** for the ChatDKG framework that allows DKG builders to easily plug in their knowledge assets into CVL-OT-MetaChatDKG via ***CVL-WebXR SDK***.
+Create **open-source codes** for the ChatDKG framework that allows DKG builders to plug in their knowledge assets into CVL-OT-MetaChatDKG via ***CVL-UnitySDK***.
 # DKG-CVL | The Metaverse-AI Search Engine
 ![image](https://github.com/Zen-CVL/CVL-OT-ChatDKG/assets/148840443/ff237dbb-d4ba-4bdf-b886-f96d97427797)
 # Solution Diagram & Deliverables
